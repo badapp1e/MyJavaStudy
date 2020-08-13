@@ -1,7 +1,6 @@
 import java.util.Arrays;
-import java.util.List;
 
-public class ArrayTest {
+public class Chapter5Practice {
     public static void main(String[] args) {
         // 声明
         double[] myList = {2.2, 1.1, 3.3, 4.4, 5.5};
@@ -34,7 +33,7 @@ public class ArrayTest {
 
         // 打印数组
         for (int[] i : twoDimArray
-             ) {
+        ) {
             System.out.println(Arrays.toString(i));
         }
     }
