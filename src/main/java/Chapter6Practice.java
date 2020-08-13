@@ -3,6 +3,9 @@ import com.hc.ccbft.List;
 import static com.hc.ccbft.debug.Debug.*;
 import com.hc.ccbft.debugoff.Debug.*;
 
+/*
+章节6：访问权限控制
+ */
 class Connection {
     private Connection() { System.out.println("Connection established.");}
     static Connection makeConnection() {

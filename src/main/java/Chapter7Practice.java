@@ -49,6 +49,9 @@ class E extends D {
     }
 }
 
+/*
+章节7：复用类
+ */
 public class Chapter7Practice {
 
 }

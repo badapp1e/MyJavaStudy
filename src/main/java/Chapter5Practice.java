@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/*
+章节5：初始化与清理
+ */
 public class Chapter5Practice {
     public static void main(String[] args) {
         // 声明
